@@ -44,7 +44,7 @@ Designed with a clean glassmorphism-inspired interface, Climora delivers an intu
 
 <img width="1680" height="953" alt="Screenshot 2026-08-04 at 6 06 49 AM" src="https://github.com/user-attachments/assets/0307334f-a2e5-47f4-b7ca-4f9e2894ead7" />
 
-
+<img width="3360" height="2778" alt="screencapture-127-0-0-1-5500-2026-08-04-06_08_20" src="https://github.com/user-attachments/assets/7ffa962a-25cb-498b-8704-63cdf94bc79f" />
 
 ---
 
